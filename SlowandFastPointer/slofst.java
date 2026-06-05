@@ -1,7 +1,7 @@
 class slofst {
 
     public static void main(String[] args) {
-        int[] nums = {1, 3, 4, 2, 2};
+        int[] nums = {1, 3, 4,1, 2};
 
         slofst obj = new slofst();
         int duplicate = obj.findDuplicate(nums);
